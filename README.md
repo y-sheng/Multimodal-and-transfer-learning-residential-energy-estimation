@@ -2,7 +2,7 @@
 This is the repository of python scripts used in the thesis by Yulan Sheng, titled as 'A Multimodal and Transfer Learning Approaches to Residential Building Operational Energy Estimation'.
 
 The repository is structured as follows:
-|--Data
+|--Data <br>
   |--Data collection and preprocessing
     |--Tabular data (filtering, aggregation)
     |--Image data
