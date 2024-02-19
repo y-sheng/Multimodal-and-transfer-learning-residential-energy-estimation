@@ -3,7 +3,7 @@ This is the repository of python scripts used in the thesis by Yulan Sheng, titl
 
 The repository is structured as follows:<br>
 |--Data <br>
-&emsp|--Data collection and preprocessing<br>
+<emsp>|--Data collection and preprocessing<br>
     |--Tabular data (filtering, aggregation)<br>
     |--Image data<br>
       |--GSV data<br>
