@@ -3,11 +3,10 @@ This is the repository of python scripts used in the thesis by Yulan Sheng, titl
 
 The repository is structured as follows:<br>
 |-Data <br>
-|&emsp;|-Data collection and preprocessing<br>
-|&emsp;|&emsp;|-Tabular data (filtering, aggregation)<br>
-|&emsp;|&emsp;|-Image data<br>
-|&emsp;|&emsp;|&emsp;|-GSV data<br>
-|&emsp;|&emsp;|&emsp;|- Image data preprocess (data link, YOLOv5, watershed segmentation)<br>
+|&emsp;|-Tabular data (filtering, aggregation)<br>
+|&emsp;|-Image data<br>
+|&emsp;|&emsp;|-GSV data<br>
+|&emsp;|&emsp;|- Image data preprocess (data link, YOLOv5, watershed segmentation)<br>
 |-Modelling<br>
 |&ensp;|&emsp;|-Preliminary study: residential energy consumption prediction from tabular data<br>
 |&ensp;|&emsp;|-Multimodal deep learning energy prediction from EPC and Google Streetview<br>
